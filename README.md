@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+- 2022-12 转正答辩～ waiting
 - 2022-05 马上毕业了 开始工作了
 - 2021-04 实习Bei Jing - NetEase - U Dictionary
 - 2020-05 目前在学Java（大二。。开学大三 暑期GSoC）
